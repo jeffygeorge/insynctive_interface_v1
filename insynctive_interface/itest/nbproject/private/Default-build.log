@@ -1,0 +1,4 @@
+arm-poky-linux-gnueabi-gcc  -g -Wall -o "DbInterface.o" -c "DbInterface.cpp"
+/bin/sh: 1: arm-poky-linux-gnueabi-gcc: not found
+Makefile:39: recipe for target 'DbInterface.o' failed
+make: *** [DbInterface.o] Error 127
